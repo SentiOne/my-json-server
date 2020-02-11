@@ -2,7 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "text": "hello",
+      "createdAt": "2020-02-11T14:51:38.664Z",
+      "isReplied": true,
+      "metadata": {
+        "comments": 3,
+        "likes" 15
+      },
+      "tags": ["tag1", "tag2"],
+      "language": "en"
+    },
+    {
+      "id": 2,
+      "text": "I like boars.",
+      "createdAt": "2020-02-11T15:11:38.664Z",
+      "isReplied": false,
+      "metadata": null,
+      "tags": [],
+      "language": "undef"
     }
   ]
 }
