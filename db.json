@@ -2,7 +2,7 @@
   "posts": [
     {
       "id": 1,
-      "text": "hello",
+      "text": "I hate boars!",
       "createdAt": "2020-02-11T14:51:38.664Z",
       "isReplied": true,
       "metadata": {
