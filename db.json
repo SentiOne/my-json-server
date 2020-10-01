@@ -10,7 +10,11 @@
         "likes": 15
       },
       "tags": ["tag1", "tag2"],
-      "language": "en"
+      "language": "en",
+      "comments": [
+        {"author": "Adam", "text": "Shut up!"},
+        {"author": "Maciek", "text": "Go away!"}
+      ]
     },
     {
       "id": 2,
@@ -19,7 +23,11 @@
       "isReplied": false,
       "metadata": null,
       "tags": [],
-      "language": "undef"
+      "language": "undef",
+      "comments": [
+        {"author": "Adam", "text": "Me too!"},
+        {"author": "Maciek", "text": "I love them <3"}
+      ]
     }
   ]
 }
